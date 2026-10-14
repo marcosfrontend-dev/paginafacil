@@ -11,7 +11,7 @@
     ],
     "functions": {
         "api/**/*.js": {
-            "runtime": "@vercel/node@3"
+        "maxDuration": 10
         }
     }
 }
